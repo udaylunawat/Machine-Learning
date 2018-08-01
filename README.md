@@ -61,7 +61,6 @@ a project that improves the lives of other people, or real progress in your own 
           -> Uninstall Instagram
           
 - #Day1: Data preprocessing - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
-
           -> Importing dataset
           
           -> Handling missing data
