@@ -51,16 +51,27 @@ a project that improves the lives of other people, or real progress in your own 
 
 - #Day0 of #100DaysOfMLCode:
           -> Creating projects timeline
+          
           -> Setting up Ubuntu and CUDA
+          
           -> Installing packages and libraries
+          
           -> Setting up my music playlist
+          
           -> Uninstall Instagram
+          
 - #Day1: Data preprocessing - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
+
           -> Importing dataset
+          
           -> Handling missing data
+          
           -> Encoding categorical data
+          
           -> Splitting into training set and test set
+          
           -> Feature scaling
+          
 - #Day2: Went through in and out of LinearRegression.
 - #Day3: Used simple Linear Regression on a tiny dataset and predicted salaries of employees based on their experience and                        Multiple Linear Regression on a dataset of startups to get profit based on multiple independent features.
 - #Day4: Today I started out with basics of Linear Algebra by Khan Academy and practiced some Python on Kaggle.
