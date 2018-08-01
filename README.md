@@ -55,14 +55,14 @@ a project that improves the lives of other people, or real progress in your own 
           -> Installing packages and libraries
           -> Setting up my music playlist
           -> Uninstall Instagram
-- #Day1: Data preprocessing - 80% time of a Data scientist goes, or at least should go doing this (hashtag#Pareto principle everywhere)
+- #Day1: Data preprocessing - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
           -> Importing dataset
           -> Handling missing data
           -> Encoding categorical data
           -> Splitting into training set and test set
           -> Feature scaling
-- #Day2: Went through in and out of hashtag#LinearRegression.
-- #Day3: Used simple Linear Regression on a tiny dataset and predicted salaries of employees based on their experience and                        MultipleLinearRegression on a dataset of startups to get profit based on multiple independent features.
+- #Day2: Went through in and out of LinearRegression.
+- #Day3: Used simple Linear Regression on a tiny dataset and predicted salaries of employees based on their experience and                        Multiple Linear Regression on a dataset of startups to get profit based on multiple independent features.
 - #Day4: Today I started out with basics of Linear Algebra by Khan Academy and practiced some Python on Kaggle.
 - #Day5: Continued with Linear Algebra by Khan Academy & Python for Data Science by Colin Morris
 - #Day6: Data Visualization - Tableau 10 A-Z by Kirill Eremenko
