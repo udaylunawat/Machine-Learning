@@ -76,3 +76,4 @@ a project that improves the lives of other people, or real progress in your own 
 - #Day4: Today I started out with basics of Linear Algebra by Khan Academy and practiced some Python on Kaggle.
 - #Day5: Continued with Linear Algebra by Khan Academy & Python for Data Science by Colin Morris
 - #Day6: Data Visualization - Tableau 10 A-Z by Kirill Eremenko
+- #Day 7:Reading Data science python by sebastian raschka
