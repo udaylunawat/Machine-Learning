@@ -82,7 +82,8 @@ a project that improves the lives of other people, or real progress in your own 
          Machine Learning Andrew NG Coursera
 - #Dayy: Well working daily is one thing and updating it on social media is allover another :P
 
-         Anyways let's continue with the journey. For the past few days i have been religiously following Ben Taylor and Daniel Bourke.          As per their advices on Quora and Youtube, I have started to work directly on a project rather than going through the basics
+         Anyways let's continue with the journey. For the past few days i have been religiously following Ben Taylor and Daniel Bourke.
+         As per their advices on Quora and Youtube, I have started to work directly on a project rather than going through the basics
          forever. Basics of Data Science although necessary, does not provides me enough motivation or energy to actually do things.
          Rather, working on actual projects and things do.
          
