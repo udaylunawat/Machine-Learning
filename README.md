@@ -80,7 +80,7 @@ a project that improves the lives of other people, or real progress in your own 
 - #Dayx: Data Science from scratch - Joel Grus
          Python for Data Science and Machine Learning Bootcamp by Jose Portilla
          Machine Learning Andrew NG Coursera
-- #Dayy: Well working daily is one thing and updating it on social media is allover another :P
+- #Dayy: Well now i've realised working daily is one thing and updating it on social media is allover different thing :P
 
          Anyways let's continue with the journey. For the past few days i have been religiously following Ben Taylor and Daniel Bourke.
          As per their advices on Quora and Youtube, I have started to work directly on a project rather than going through the basics
