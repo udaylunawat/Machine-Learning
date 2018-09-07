@@ -87,5 +87,6 @@ a project that improves the lives of other people, or real progress in your own 
          forever. Basics of Data Science although necessary, does not provides me enough motivation or energy to actually do things.
          Rather, working on actual projects and things do.
          
-         So, i got back to my UG Major Project and added additional EDA and updated the dataset to include virtual player features from          the sofifa.com website. I will be trying to create a virtual football predictor from scraped dataset and compare it with the
+         So, i got back to my UG Major Project and added additional EDA and updated the dataset to include virtual player features from 
+         the sofifa.com website. I will be trying to create a virtual football predictor from scraped dataset and compare it with the
          real one.
