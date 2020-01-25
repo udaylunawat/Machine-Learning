@@ -24,9 +24,8 @@
           -> Feature scaling
           
 - [Linear Regression](3.\Simple\Linear\Regression/Simple\Linear\Regression.ipynb)
-          -> Used simple Linear Regression on a tiny dataset and predicted salaries of employees based on their experience and 
-          Multiple Linear Regression on a dataset of startups to get profit based on multiple independent features.
           
+          -> Predicted salaries of employees based on their experience
 
 - [Multivariable Linear Regression](Basics\practice/4.\Multiple\Linear\Regression/Multiple\Linear\Regression.ipynb)
 
@@ -38,13 +37,15 @@
           
           -> Feature scaling
           
+          -> Predicted profit based on multiple independent features.
+          
 - [Boston house pricing](Basics\practice/5.\Boston\Pricing/Boston\pricing.ipynb)
 
           -> used DESCR to describe the data
           
           -> Mean, median, Standard deviation analysis
           
-          -> PLotted real values v/s predicted values to get an idea of the prediction
+          -> Plotted real values v/s predicted values to get an idea of the prediction
           
 - [Polynomial regression](Basics\practice/6.\Polynomial\Regression\polynomial_regression.py)
 
