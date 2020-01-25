@@ -11,7 +11,7 @@
           
           -> Uninstall Instagram (My hatred for time-wasting social media knows no bounds)
           
-- [Data preprocessing](Basics\practice/2.\Data\preprocessing/Data\preprocessing.ipynb) - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
+- [Data preprocessing](Topics/2.\Data\preprocessing/Data\preprocessing.ipynb) - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
 
           -> Importing dataset
           
@@ -23,11 +23,11 @@
           
           -> Feature scaling
           
-- [Linear Regression](3.\Simple\Linear\Regression/Simple\Linear\Regression.ipynb)
+- [Linear Regression](Topics/3.\Simple\Linear\Regression/Simple\Linear\Regression.ipynb)
           
           -> Predicted salaries of employees based on their experience
 
-- [Multivariable Linear Regression](Basics\practice/4.\Multiple\Linear\Regression/Multiple\Linear\Regression.ipynb)
+- [Multivariable Linear Regression](Topics/4.\Multiple\Linear\Regression/Multiple\Linear\Regression.ipynb)
 
           -> Encoding categorical data
           
@@ -39,7 +39,7 @@
           
           -> Predicted profit based on multiple independent features.
           
-- [Boston house pricing](Basics\practice/5.\Boston\Pricing/Boston\pricing.ipynb)
+- [Boston house pricing](Topics/5.\Boston\Pricing/Boston\pricing.ipynb)
 
           -> used DESCR to describe the data
           
@@ -47,15 +47,15 @@
           
           -> Plotted real values v/s predicted values to get an idea of the prediction
           
-- [Polynomial regression](Basics\practice/6.\Polynomial\Regression\polynomial_regression.py)
+- [Polynomial regression](Topics/6.\Polynomial\Regression\polynomial_regression.py)
 
           -> Learned about Polynomial regression and how it's degree affects the curve
           
-- [Principal Component Analysis](Basics\practice/7.\Cancer\dataset/Cancer_PCA.ipynb)
+- [Principal Component Analysis](Topics/7.\Cancer\dataset/Cancer_PCA.ipynb)
 
           -> Performed PCA on Cancer dataset
           
- - [Data Analysis](Basics\practice/8.\Data\Analysis/EDA\Habberman.ipynb)
+ - [Data Analysis](Topics/8.\Data\Analysis/EDA\Habberman.ipynb)
           
           -> Data Analysis of Habermann survival dataset (Breast cancer)
           
