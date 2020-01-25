@@ -1,4 +1,4 @@
-# Topics covered
+# This is a repository describing my new learnings from datasets and the techniques I used on them
 
 - #Day0:
           -> Creating projects timeline
@@ -9,7 +9,7 @@
           
           -> Setting up my music playlist
           
-          -> Uninstall Instagram
+          -> Uninstall Instagram (My hatred for time-wasting social media knows no bounds)
           
 - [Data preprocessing](Basics\practice/2.\Data\preprocessing/Data\preprocessing.ipynb) - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
 
@@ -49,4 +49,24 @@
           
 - [Polynomial regression](Basics\practice/6.\Polynomial\Regression\polynomial_regression.py)
 
-          -> Learned about Polynomial regression and how it's degree affects the curve 
+          -> Learned about Polynomial regression and how it's degree affects the curve
+          
+- [Principal Component Analysis](Basics\practice/7.\Cancer\dataset/Cancer_PCA.ipynb)
+
+          -> Performed PCA on Cancer dataset
+          
+ - [Data Analysis](Basics\practice/8.\Cancer\dataset/Cancer_PCA.ipynb)
+          
+          -> Data Analysis of Habermann survival dataset (Breast cancer)
+          
+          -> PDF and CDF
+          
+          -> Histograms
+          
+          -> Box plots
+          
+          -> Violin plots
+          
+          -> Pair plots
+          
+          -> Heatmaps
