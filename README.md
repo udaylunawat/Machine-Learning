@@ -55,7 +55,7 @@
 
           -> Performed PCA on Cancer dataset
           
- - [Data Analysis](Basics\practice/8.\Cancer\dataset/Cancer_PCA.ipynb)
+ - [Data Analysis](Basics\practice/8.\Data\Analysis/EDA\Habberman.ipynb)
           
           -> Data Analysis of Habermann survival dataset (Breast cancer)
           
