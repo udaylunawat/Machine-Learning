@@ -11,7 +11,7 @@
           
           -> Uninstall Instagram
           
-- [Data preprocessing]Basics practice/2. Data preprocessing/Data preprocessing.ipynb) - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
+- [Data preprocessing](Basics practice/2. Data preprocessing/Data preprocessing.ipynb) - 80% time of a Data scientist goes, or at least should go doing this (Pareto principle everywhere)
 
           -> Importing dataset
           
